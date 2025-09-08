@@ -18,5 +18,4 @@ This project combines multiple data sources to enable both object detection and 
 - **YOLO Training Data**: A **custom image dataset** created by capturing photos of real museum artifacts using **mobile phones and professional cameras**.  
   - Images were further **preprocessed, annotated, and augmented in Roboflow**.  
   - Includes statues like the **Thutmose III**, **Khonsu**, and **khedive ismail**.  
-<img width="493" height="264" alt="image" src="https://github.com/user-attachments/assets/d734971e-dc72-46b4-8178-dd05cb807c24" />
-
+<img width="959" height="510" alt="image" src="https://github.com/user-attachments/assets/bab183e6-6ab8-44c1-a83a-ab8b707b4b65" />
