@@ -35,10 +35,9 @@ https://github.com/user-attachments/assets/a8a16011-5f71-4041-8545-74269e9f84e7
 
 ## 📖 Publication
 
-This project was presented as a paper at the:
+#This project was presented as a paper at the:#
 
 **3rd International IEEE Conference for Intelligent Methods, Systems, and Applications (IMSA 2025)**  
-📍 Giza, Egypt | 🗓️ 12–13 July 2025  
 
 **Paper Title:**  
 *Museum Virtual Guide with Deep Learning-Based Hybrid Recommendations for Personalized User Experiences*  
