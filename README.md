@@ -43,7 +43,6 @@ This project was presented as a paper at the:
 **Paper Title:**  
 *Museum Virtual Guide with Deep Learning-Based Hybrid Recommendations for Personalized User Experiences*  
 
-📄 [View Certificate (PDF)](docs/IMSA2025_Author_Sohila_Alaasar.pdf)
-
+[IMSA2025%20Author%20Sohila%20Alaasar.pdf](https://github.com/user-attachments/files/22223715/IMSA2025.20Author.20Sohila.20Alaasar.pdf)
 
 
