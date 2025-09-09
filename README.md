@@ -19,7 +19,7 @@ This project combines multiple data sources to enable both object detection and 
   - Images were further **preprocessed, annotated, and augmented in Roboflow**.  
   - Includes statues like the **Thutmose III**, **Khonsu**, and **khedive ismail**.  
 <img width="950" height="510" alt="image" src="https://github.com/user-attachments/assets/bab183e6-6ab8-44c1-a83a-ab8b707b4b65" />
-<img width="950" height="224" alt="image" src="https://github.com/user-attachments/assets/748f077c-9306-4f3d-9e5a-19b79263048d" />
+<img width="1000" height="437" alt="image" src="https://github.com/user-attachments/assets/257231e6-2c16-4eb0-a722-164ec6f3b0aa" />
 
 
 ## 🎥 Demo
