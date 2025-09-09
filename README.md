@@ -13,13 +13,14 @@ This project combines multiple data sources to enable both object detection and 
 
 - **Exhibit Metadata**: Titles, categories, historical periods, and bilingual descriptions (English & Arabic).  
 - **Text Features**: Extracted using **BERT embeddings** for semantic understanding of exhibit descriptions.  
-- **Image Features**: Extracted using **ResNet50** from a **diverse image dataset** that includes artifacts, statues, and mockups of historical buildings, enabling robust visual similarity matching across exhibits.  
+- **Image Features**: Extracted using **ResNet50** from a **diverse image dataset** that includes artifacts, statues, and mockups of historical buildings, enabling robust visual similarity matching across exhibits.
+<img width="950" height="437" alt="image" src="https://github.com/user-attachments/assets/257231e6-2c16-4eb0-a722-164ec6f3b0aa" />
+
 - **Ratings Dataset**: Simulated user ratings (likes/dislikes and numeric scores) to train collaborative filtering models.  
 - **YOLO Training Data**: A **custom image dataset** created by capturing photos of real museum artifacts using **mobile phones and professional cameras**.  
   - Images were further **preprocessed, annotated, and augmented in Roboflow**.  
   - Includes statues like the **Thutmose III**, **Khonsu**, and **khedive ismail**.  
 <img width="950" height="510" alt="image" src="https://github.com/user-attachments/assets/bab183e6-6ab8-44c1-a83a-ab8b707b4b65" />
-<img width="1000" height="437" alt="image" src="https://github.com/user-attachments/assets/257231e6-2c16-4eb0-a722-164ec6f3b0aa" />
 
 
 ## 🎥 Demo
