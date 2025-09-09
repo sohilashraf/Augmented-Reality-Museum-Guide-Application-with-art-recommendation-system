@@ -23,8 +23,6 @@ This project combines multiple data sources to enable both object detection and 
 ## 🎥 Demo
 
 
-| ![Detection](https://github.com/user-attachments/assets/01fe8f84-fa63-4f40-94af-2091bfbbe0d3) | ![3D Overlay](https://github.com/user-attachments/assets/3a2b36a0-acc5-4cc0-a0e0-17742af10543) | ![Avatar](https://github.com/user-attachments/assets/a8a16011-5f71-4041-8545-74269e9f84e7) | 
-
 https://github.com/user-attachments/assets/01fe8f84-fa63-4f40-94af-2091bfbbe0d3
 
 
@@ -34,4 +32,18 @@ https://github.com/user-attachments/assets/3a2b36a0-acc5-4cc0-a0e0-17742af10543
 
 
 https://github.com/user-attachments/assets/a8a16011-5f71-4041-8545-74269e9f84e7
+
+## 📖 Publication
+
+This project was presented as a paper at the:
+
+**3rd International IEEE Conference for Intelligent Methods, Systems, and Applications (IMSA 2025)**  
+📍 Giza, Egypt | 🗓️ 12–13 July 2025  
+
+**Paper Title:**  
+*Museum Virtual Guide with Deep Learning-Based Hybrid Recommendations for Personalized User Experiences*  
+
+📄 [View Certificate (PDF)](docs/IMSA2025_Author_Sohila_Alaasar.pdf)
+
+
 
