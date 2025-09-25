@@ -37,7 +37,8 @@ https://github.com/user-attachments/assets/a8a16011-5f71-4041-8545-74269e9f84e7
 This project was presented as a paper at the:
 
 **3rd International IEEE Conference for Intelligent Methods, Systems, and Applications (IMSA 2025)**  
-
+**Paper Link:**  
+https://ieeexplore.ieee.org/document/11167599
 **Paper Title:**  
 *Museum Virtual Guide with Deep Learning-Based Hybrid Recommendations for Personalized User Experiences*  
 
